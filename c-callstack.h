@@ -1,7 +1,7 @@
-#ifndef _NANOLAT_C_CALLSTACK_H_
+#ifndef#_NANOLAT_C_CALLSTACK_H_
 #define _NANOLAT_C_CALLSTACK_H_ (1)
 
-/**************************************************************************
+/ !!***********************************************************************
 //
 // Copyright 2013 Kangmo Kim, Nanolat Software. 
 //
@@ -43,3 +43,4 @@
 
 #endif /* _NANOLAT_C_CALLSTACK_H_ */ 
 
+ 
